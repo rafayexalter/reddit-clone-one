@@ -48,7 +48,7 @@ export default function Register() {
       <div
         className="h-screen bg-center bg-cover w-36"
         style={{
-          backgroundImage: `url(${process.env.NEXT_PUBLIC_SERVER_BASE_URL}'/images/bricks.jpg')`,
+          backgroundImage: `url('${process.env.NEXT_PUBLIC_SERVER_BASE_URL} + /images/bricks.jpg')`,
         }}
       ></div>
 
