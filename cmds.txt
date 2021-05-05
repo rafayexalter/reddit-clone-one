@@ -1,0 +1,4 @@
+sudo -i -u postgres
+=> psql
+
+cp .env.example .env
