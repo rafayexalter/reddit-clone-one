@@ -6,3 +6,7 @@ cp .env.example .env
 npm install pm2 = for server and client keep running
 
 https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
+
+git add .
+git commit -m "changes"
+git push -u origin "branch-name"
