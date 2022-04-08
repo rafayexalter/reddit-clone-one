@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Reddit Clone Project Build with TypeORM
 
 Steps to run this project:
 
